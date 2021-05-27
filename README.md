@@ -83,7 +83,6 @@ You use this model with Transformers pipeline for NER.
 ### Installing requirements
 
 ```bash
-pip install sentencepiece
 pip install transformers
 ```
 
@@ -155,7 +154,7 @@ Please cite this repository in publications as the following:
 ```bibtext
 @misc{IcelandicNER,
   author = {Mehrdad Farahani},
-  title = {Pre-Trained model for Icelandic NER},
+  title = {Pre-Trained models for Icelandic NER},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
