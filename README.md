@@ -1,0 +1,2 @@
+# icelandic-ner
+Icelandic NER  🇮🇸
