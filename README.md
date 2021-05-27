@@ -133,7 +133,7 @@ All models were trained on a single NVIDIA P100 GPU with following parameters.
 "per_device_train_batch_size": 16
 "per_device_eval_batch_size": 16
 "use_fast_tokenizer": True
-"num_train_epochs": 15.0
+"num_train_epochs": 5.0
 "do_train": True
 "do_eval": True
 "do_predict": True
